@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rocravt
-- 👀 I’m interested in a lot of stuff... some of it: web (React/Online Stores), Blockchains (everything about them: crypto-currencies, NFTs, DeFi, etc...), AI/ML, and everything/anything exciting. We're building stuff after all.
-- 🌱 I’m currently learning python, c++, web (refreshing my HTML/CSS, and will learn JS soon)
-- 💞️ I’m looking to collaborate on somehting cool
-- 📫 How to reach me: crovtbox@gmail.com; @ravshanbxk on Instagram, Twitter, Telegram. Might make a YT channel soon, and a website is slowly on the way.
+- 👀 I’m interested in a lot of stuff... some of it: Web-Dev(React/Online Stores), Blockchains(everything about them: crypto-currencies, NFTs, DeFi, etc...), AI/ML, and almost all topic in general
+- 🌱 I’m currently learning python anf c++. Also, I'm re-learning web-dev, cuz I never properly went through it completely.
+- 💞️ I’m looking to collaborate on any projects really, at this moment. I just need to get used to GitHub and get proper development experience.
+- 📫 How to reach me: crovtbox@gmail.com; Twitter/Telegram/Instagram -> @ravshanbxk
 
 <!---
 rocravt/rocravt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
